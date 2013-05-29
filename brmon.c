@@ -222,3 +222,4 @@ void bridge_get_configuration(void)
     fprintf(stderr, "Cannot send dump request: %m\n");
   }
 }
+/* test */
